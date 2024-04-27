@@ -33,7 +33,7 @@ namespace ComRepairServices
             PerformButtonClickFunction();
         }
 
-        // Add a new private function to encapsulate the desired functionality
+        // Add a new private function to encapsulate the desired functionalities
         private void PerformButtonClickFunction()
         {
             // Add your code here to perform the desired functionality
